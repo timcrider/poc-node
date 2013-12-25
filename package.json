@@ -17,5 +17,14 @@
   "license": "BSD-2-Clause",
   "bugs": {
     "url": "https://github.com/timcrider/poc-node/issues"
+  },
+  "devDependencies": {
+    "grunt": "~0.4.2",
+    "grunt-contrib-watch": "~0.5.3",
+    "grunt-contrib-jshint": "~0.7.2",
+    "grunt-contrib-nodeunit": "~0.2.2"
+  },
+  "dependencies": {
+    "nodeunit": "~0.8.2"
   }
 }
